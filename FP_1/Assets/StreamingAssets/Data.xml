@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="utf-8"?>
+<ItemCollection>
+	<item id="Sun" photo_path="Thumbnails/Sun.jpg" name="SUN">
+		Here comes the information about the Sun.
+	</item>
+	<item id="Mercury" photo_path="Thumbnails/Mercury.png" name="MERCURY">
+		Here comes the information about Mercury.
+	</item>
+	<item id="Venus" photo_path="Thumbnails/Venus.png" name="VENUS">
+		Here comes the information about Venus.
+	</item>
+	<item id="Earth" photo_path="Thumbnails/Earth.png" name="EARTH">
+		Here comes the information about the Earth.
+	</item>
+	<item id="Mars" photo_path="Thumbnails/Mars.png" name="MARS">
+		Here comes the information about Mars.
+	</item>
+	<item id="Jupiter" photo_path="Thumbnails/Jupiter.png" name="JUPITER">
+		Here comes the information about Jupiter.
+	</item>
+	<item id="Saturn" photo_path="Thumbnails/Saturn.png" name="SATURN">
+		Here comes the information about Saturn.
+	</item>
+	<item id="Uranus" photo_path="Thumbnails/Uranus.png" name="URANUS">
+		Here comes the information about Uranus.
+	</item>
+	<item id="Neptune" photo_path="Thumbnails/Neptune.png" name="NEPTUNE">
+		Here comes the information about Neptune.
+	</item>
+	<item id="Pluto" photo_path="Thumbnails/Pluto_2.png" name="PLUTO">
+		Here comes the information about Pluto.
+	</item>
+	<item id="Moon" photo_path="Thumbnails/Moon.png" name="MOON">
+		Here comes the information about the Moon.
+	</item>
+</ItemCollection>
