@@ -13,6 +13,8 @@ https://assetstore.unity.com/packages/3d/environments/m-lowpoly-planets-of-solar
 
 https://assetstore.unity.com/packages/3d/props/interior/lamps-pack-19102, Funfant [27.04.2019] 
 
+https://assetstore.unity.com/packages/vfx/particles/galaxy-space-procedural-galaxy-generator-91556?fbclid=IwAR3Vndoh8Z9oJ7ZY91252yNFv_zj-DQl8WGYHnEszO_SzwcIJ0QSvl_eh8w, Wolfniey [11.05.2019]
+
 ## Sources used:
 Acacia Developer, 2019. [Unity C#] First Person Controller (E01: Basic FPS Controller and Jumping) - YouTube. [online] Available at: <https://www.youtube.com/watch?v=n-KX8AeGK7E> [Accessed 19 Apr. 2019].
 
